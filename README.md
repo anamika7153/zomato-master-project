@@ -1,6 +1,6 @@
 # zomato-master-project
 
-#Screenshots
+## Screenshots
 
 - Home Page
 
